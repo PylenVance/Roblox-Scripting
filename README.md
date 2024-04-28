@@ -42,5 +42,14 @@ The person will become visisble after 10 seconds
 **Languages:** [Roblox Lua]
 
 ---
+
+### Project 5: [GiveGamePassCoil]
+**Description:** 
+This script checks if a user bought a gamepass and will give the buyer a speedcoil (place in serverstorage)
+also checks if player owns gamepass upon joining the game
+
+**Languages:** [Roblox Lua]
+
+---
 ## Contact:
 You can reach me via Discord at [itsameeasuka].
