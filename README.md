@@ -32,5 +32,15 @@ This script allows a user to sprint when holding down the shift key.
 
 **Languages:** [Roblox Lua]
 
+---
+
+### Project 4: [InvisibleChat]
+**Description:** 
+This script allows a person to become invisible upon chatting "!invis" in chat
+The person will become visisble after 10 seconds
+
+**Languages:** [Roblox Lua]
+
+---
 ## Contact:
 You can reach me via Discord at [itsameeasuka].
