@@ -51,5 +51,15 @@ also checks if player owns gamepass upon joining the game
 **Languages:** [Roblox Lua]
 
 ---
+
+### Project 6: [Kick Player Command]
+**Description:** 
+This works as a administrator script that kicks a user when the command "!kick" + username is said
+Self explained 
+
+**Languages:** [Roblox Lua]
+
+---
+
 ## Contact:
 You can reach me via Discord at [itsameeasuka].
